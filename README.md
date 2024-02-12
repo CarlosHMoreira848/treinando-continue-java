@@ -1,2 +1,15 @@
-# treinando-continue-java
-Exercício da criação de um programa que lista uma sequência numérica até 100 e omite o número digitado pelo usuário na entrada de dados.
+# Programa: Treinando o comando 'continue' em Java!
+- Data: 12/02/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
+- O que é: Um programa de baixa complexidade que lista uma sequência numérica até 100 e omite o número digitado pelo usuário na entrada de dados.
+- Temas envolvidos:
+  - Variáveis;
+  - Saída de dados: System.out.println();
+  - Entrada de dados: 'objeto'.nextInt();
+  - Operadores relacionais: '<=' e '<';
+  - Operador lógico: '||' (ou);
+  - Estrutura de repetição: 'for';
+  - Estrutura condicional: 'if';
+  - Incremento de variável: '++';
+  - Comando: 'continue';
+  - Biblioteca: java.Util.Scanner;
